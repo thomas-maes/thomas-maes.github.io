@@ -1,0 +1,12 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+img {
+    max-width: 200px;
+}

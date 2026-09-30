@@ -1,0 +1,17 @@
+body {
+    background-color: gold;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+img {
+    max-width: 400px;
+    background-color: white;
+}
+
+.inspringing {
+    margin-left: 40px;
+}
